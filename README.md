@@ -11,8 +11,8 @@ My hobbies and interests include:
 
 My career has spanned component level electronics, commercial and military radio & satellite systems, programming, data analytics and predictive modeling, packet-level analysis, and most currently a log consolidation and data analysis and visualization product called 'Splunk', for which I am a certified architect and developer.
 
-You can reach me by email at:  jimb@live.com 
-
+You can reach me by email at: jimb@live.com 
+My LinkedIn profile is: https://www.linkedin.com/in/jameshbaxter/
 
 
 <!---
